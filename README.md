@@ -3,9 +3,9 @@
 
 - **Skills:**
 
-Programming Languages: JavaScript, PHP
-Web Development: React, HTML/CSS, Node.js, Express, Next.js, GraphQL, REST
-Database Management: MySQL, MongoDB, Firebase
+- Programming Languages: JavaScript, PHP
+- Web Development: React, HTML/CSS, Node.js, Express, Next.js, GraphQL, REST
+- Database Management: MySQL, MongoDB, Firebase
 
   
 
