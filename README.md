@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Agbeja Joshua Olugbenga, a full stack developer passionate in web development, software engineering and profering IT solutions.
-- I possess strong foundation in javascript and php programming language and have implemented my skills in educational sector, financial institution, data analytics and providing utilities for companies.
-- Skills:
--**Programming Lagnuages**Javascript , php 
+- 👋 
+- Hello, I'm Agbeja Joshua Olugbenga, a passionate full-stack developer specializing in web development, software engineering, and providing effective IT solutions. I've honed my skills in diverse fields, including the educational sector, financial institutions, data analytics, and offering utilities for various companies.
+
+- **Skills:**
+
+Programming Languages: JavaScript, PHP
+Web Development: React, HTML/CSS, Node.js, Express, Next.js, GraphQL, REST
+Database Management: MySQL, MongoDB, Firebase
+
   
--  **Web Development**: React, HTML/CSS, Nodejs, Express, Nextjs,GraphQL,REST
-  
-- **Database Management:** MYSQL,MongoDB, Firebase
--   
 
 - 📫 You can reach me via tel: talktogbenga@gmail.com.   See ya!.
 
