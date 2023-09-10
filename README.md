@@ -7,7 +7,9 @@
 - Web Development: React, HTML/CSS, Node.js, Express, Next.js, GraphQL, REST
 - Database Management: MySQL, MongoDB, Firebase
 
-  ![Uploading image.png…]()
+  ![JavaScript Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![PHP Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+
 
 
 - 📫 You can reach me via tel: talktogbenga@gmail.com.   See ya!.
