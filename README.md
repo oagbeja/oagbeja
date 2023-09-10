@@ -8,8 +8,8 @@
 - Database Management: MySQL, MongoDB, Firebase
 
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript Icon" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP Icon" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript Icon" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP Icon" width="50" height="50"/> 
+
 
 
 - 📫 You can reach me via tel: talktogbenga@gmail.com.   See ya!.
