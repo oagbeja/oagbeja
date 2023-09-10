@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @oagbeja
-- 👀 I’m interested in React,Php,SQL,NOSQL,Javascript projects
-- 🌱 I’m currently learning graphQL and MongoDB
-- 💞️ I’m looking to collaborate on the above skills and don't mind exploring other options
-- 📫 You can reach me via tel: 2347035493355, talktogbenga@gmail.com.   See ya!.
+- 👋 Hi, I’m Agbeja Joshua Olugbenga, a full stack developer passionate in web development, software engineering and profering IT solutions.
+- I possess strong foundation in javascript and php programming language and have implemented my skills in educational sector, financial institution, data analytics and providing utilities for companies.
+- Skills:
+-**Programming Lagnuages**Javascript , php
+  **Web Development**: React, HTML/CSS, Nodejs, Express, Nextjs,GraphQL,REST
+  **Database Management:** MYSQL,MongoDB, Firebase
+  
+  
+- 
+- 
+-   
+
+- 📫 You can reach me via tel: talktogbenga@gmail.com.   See ya!.
 
 <!---
 oagbeja/oagbeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
