@@ -3,8 +3,8 @@
 
 - **Skills:**
 
-- Programming Languages: JavaScript, PHP,Typescript
-- Web Development: React, HTML/CSS, Node.js, Express, Next.js, GraphQL, REST
+- Programming Languages: JavaScript, PHP,Typescript,Python
+- Web Development: React, HTML/CSS, Node.js, Express, Next.js, GraphQL, REST,FastAPI
 - Database Management: MySQL, MongoDB, Firebase
 - CI/CD: AWS pipeline, AWS Elasticbeanstalk, AWS Codebuild,AWS S3,Git
 
